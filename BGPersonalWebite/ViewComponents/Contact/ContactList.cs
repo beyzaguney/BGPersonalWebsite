@@ -1,8 +1,8 @@
-﻿using BGPersonalWebite.ViewComponents.About;
+﻿using BGPersonalWebsite.ViewComponents.About;
 using BusinessLayer.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BGPersonalWebite.ViewComponents.Contact;
+namespace BGPersonalWebsite.ViewComponents.Contact;
 
 public class ContactList:ViewComponent
 {

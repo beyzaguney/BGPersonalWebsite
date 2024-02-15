@@ -1,4 +1,4 @@
-namespace BGPersonalWebite.Models
+namespace BGPersonalWebsite.Models
 {
     public class ErrorViewModel
     {

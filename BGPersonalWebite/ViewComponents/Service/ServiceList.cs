@@ -1,7 +1,7 @@
 ﻿using BusinessLayer.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BGPersonalWebite.ViewComponents.Service;
+namespace BGPersonalWebsite.ViewComponents.Service;
 
 public class ServiceList:ViewComponent
 {

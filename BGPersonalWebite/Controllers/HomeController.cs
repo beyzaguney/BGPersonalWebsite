@@ -1,8 +1,8 @@
-﻿using BGPersonalWebite.Models;
+﻿using BGPersonalWebsite.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BGPersonalWebite.Controllers
+namespace BGPersonalWebsite.Controllers
 {
     public class HomeController : Controller
     {

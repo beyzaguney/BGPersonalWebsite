@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGPersonalWebite", "BGPersonalWebite\BGPersonalWebite.csproj", "{6605116C-BBB0-489C-A1E7-727DA0559C50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGPersonalWebsite", "BGPersonalWebite\BGPersonalWebsite.csproj", "{6605116C-BBB0-489C-A1E7-727DA0559C50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{486B65E1-8956-4FF4-8515-16CE344F0E26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{486B65E1-8956-4FF4-8515-16CE344F0E26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{B102AB97-45F2-4AAA-AD11-8B989DD7BC8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{B102AB97-45F2-4AAA-AD11-8B989DD7BC8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{E802F092-2DD9-464B-B751-C9A58A77B554}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{E802F092-2DD9-464B-B751-C9A58A77B554}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

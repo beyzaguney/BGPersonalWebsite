@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace BGPersonalProject.Controllers;
+namespace BGPersonalWebsite.Controllers;
 
 public class DefaultController : Controller
 {

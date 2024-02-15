@@ -1,7 +1,7 @@
 ﻿using BusinessLayer.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BGPersonalWebite.ViewComponents.Portfolio;
+namespace BGPersonalWebsite.ViewComponents.Portfolio;
 
 public class PortfolioList:ViewComponent
 {

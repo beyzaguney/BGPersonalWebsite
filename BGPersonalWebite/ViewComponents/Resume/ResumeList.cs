@@ -1,4 +1,4 @@
-﻿namespace BGPersonalWebite.ViewComponents.Resume
+﻿namespace BGPersonalWebsite.ViewComponents.Resume
 {
     public class ResumeList
     {

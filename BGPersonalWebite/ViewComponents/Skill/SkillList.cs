@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using BusinessLayer.Services;
-using BGPersonalWebite.ViewComponents.Contact;
+using BGPersonalWebsite.ViewComponents.Contact;
 
-namespace BGPersonalWebite.ViewComponents.Skill;
+namespace BGPersonalWebsite.ViewComponents.Skill;
 
 public class SkillList:ViewComponent
 {
